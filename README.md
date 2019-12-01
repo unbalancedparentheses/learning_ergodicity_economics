@@ -1,15 +1,16 @@
 # Ergodicity Economics lecture notes
 Lecture notes, published through our blog.
 
+If you want to discuss the lecture notes you can join the [Discord server](https://discord.gg/TcnesY8)
 
+If you have any questions regarding the lectures notes create an issue.
 
-Questions we're interested in: 
+# Questions we're interested in: 
 * Part I, Tools, is meant to provide readers with required background, a bag of tricks. We want to keep this short because we're not writing a book on probability theory etc. 
 Is anything unclear in this section? Is something essential missing?
 * Both in Part I and Part II: where would figures help, what should they be?
 * should we link to animations? code? Good ideas for how to do that?
 * errors, typos, notational inconsistency -- please let us know.
-
 
 ## Changelog
 
