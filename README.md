@@ -1,5 +1,7 @@
 # Ergodicity Economics lecture notes
-Lecture notes, published through our blog.
+Lecture notes, published through our blog
+
+You can download the lectures notes [here](./main.pdf)
 
 If you want to discuss the lecture notes you can join the [Discord server](https://discord.gg/TcnesY8)
 
