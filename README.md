@@ -1,4 +1,4 @@
-# ee_lecture_notes
+# Ergodicity Economics lecture notes
 Lecture notes, published through our blog.
 
 28 November 2019:
