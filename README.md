@@ -12,6 +12,19 @@ If you want to discuss the lecture notes you can join the [Discord server](https
 
 If you have any questions regarding the lecture notes, create an issue.
 
+## Questions we're interested in
+
+- Part I (Tools) is meant to provide readers with required background, a bag of tricks. We want to keep this short because we are not writing a book on probability theory etc. Is anything unclear in this section? Is something essential missing?
+- Both in Part I and Part II: where would figures help, and what should they be?
+- Should we link to animations? Code? Good ideas for how to do that?
+- Errors, typos, notational inconsistency -- please let us know.
+
+## Changelog
+
+### 28 November 2019
+
+Part I and Part II, up to chapter 5, have been updated since June 2018. We're currently working on them.
+
 ## Not yet reviewed
 
 Resources gathered for future study. Inclusion here does not imply endorsement; critical perspectives are listed alongside supportive ones.
@@ -62,16 +75,3 @@ Resources gathered for future study. Inclusion here does not imply endorsement; 
 ### Ergodicity in Biology & Climate (New)
 - [Non-ergodicity in ecology and evolution -- Kuosmanen, Minetto & Mustonen (bioRxiv, 2025)](https://www.biorxiv.org/content/10.1101/2025.09.01.673433v1) -- Non-ergodicity as the rule in biological systems; implications for demography, environment, and cooperation
 - [Climate change and climate-linked finance -- Turvey et al. (Agricultural Finance Review, 2025)](https://www.emerald.com/insight/content/doi/10.1108/afr-11-2023-0147/full/html) -- Uses Ornstein-Uhlenbeck processes to measure climate ergodicity and price climate-linked bonds
-
-## Questions we're interested in
-
-- Part I (Tools) is meant to provide readers with required background, a bag of tricks. We want to keep this short because we are not writing a book on probability theory etc. Is anything unclear in this section? Is something essential missing?
-- Both in Part I and Part II: where would figures help, and what should they be?
-- Should we link to animations? Code? Good ideas for how to do that?
-- Errors, typos, notational inconsistency -- please let us know.
-
-## Changelog
-
-### 28 November 2019
-
-Part I and Part II, up to chapter 5, have been updated since June 2018. We're currently working on them.
