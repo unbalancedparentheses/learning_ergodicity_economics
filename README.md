@@ -41,6 +41,28 @@ Resources gathered for future study. Inclusion here does not imply endorsement; 
 - [Non-ergodicity in reinforcement learning: robustness via ergodicity transformations](https://icml.cc/virtual/2024/38497) -- Baumann, Noorani, Price, Peters, Connaughton & Schon (ICML, 2024)
 - [How ergodicity reimagines economics for the benefit of us all](https://aeon.co/ideas/how-ergodicity-reimagines-economics-for-the-benefit-of-us-all) -- Peters (Aeon, 2021)
 
+### Experimental Evidence (New)
+- [Ergodicity transformations predict human decision-making under risk -- Skjold, Steinkamp, Connaughton, Hulme & Peters (OSF Preprints, 2024)](https://osf.io/c96yd) -- Pre-registered experiment with two independent replications showing people shift risk aversion under multiplicative dynamics as predicted
+- [Human decision-making in a non-ergodic additive environment -- Vanhoyweghen & Ginis (Proc. Royal Society A, 2023)](https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0544) -- Humans adjust risk aversion based on proximity to absorbing boundaries in non-ergodic additive dynamics
+- [Ergodicity transformations as predictors of risk-taking behaviour and their functional neuronal correlates -- Steinkamp et al. (RLDM 2025)](https://research.regionh.dk/en/publications/ergodicity-transformations-as-predictors-of-risk-taking-behaviour/) -- First neuroimaging study linking ergodicity transformations to functional brain activity during risky decisions
+
+### Critiques, Replies & Debate (New)
+- [Reply to 'The Limitations of Growth-Optimal Approaches' -- Hulme, Vanhoyweghen, Peters et al. (Econ Journal Watch, 2023)](https://econjwatch.org/articles/reply-to-the-limitations-of-growth-optimal-approaches-to-decision-making-under-uncertainty) -- Eleven-author reply arguing Ford & Kay's critique rests on a misunderstanding
+- [Against Ergodicity Economics -- Dickens (blog, 2025)](https://mdickens.me/2025/05/29/ergodicity/) -- Argues EE reduces to log-utility/Kelly criterion and a single universal risk strategy is inappropriate
+
+### Reviews of the 2025 Textbook (New)
+- [Notes on Ergodicity Economics -- Loeffler (SSRN, 2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5399717) -- Academic review summarizing the main arguments and discussing challenges in reception by mainstream economists
+- [At last: the first-ever textbook on ergodicity economics -- Syll (blog, 2025)](https://larspsyll.wordpress.com/2025/09/22/at-last-the-first-ever-textbook-on-ergodicity-economics/) -- Favorable review by heterodox economist framing the textbook as filling a critical gap
+
+### Ergodicity in Machine Learning (New)
+- [Reinforcement learning with non-ergodic reward increments -- Baumann et al. (TMLR, 2025)](https://arxiv.org/abs/2310.11335) -- Journal-published version learning ergodicity transformations to produce robust RL policies
+- [Reinforcement learning in path-dependent, non-ergodic contexts -- Verbruggen, Vanhoyweghen & Ginis (Proc. Royal Society A, 2025)](https://royalsocietypublishing.org/doi/10.1098/rspa.2024.0415) -- RL agents converge to Kelly criterion in portfolio selection under ergodicity breaking
+- [Model-Agnostic Solutions for Deep RL in Non-Ergodic Contexts -- Verbruggen et al. (arXiv, 2026)](https://arxiv.org/abs/2601.08726) -- Time-dependent value function approximation aligning deep RL with intrinsic growth rates
+
+### Ergodicity in Biology & Climate (New)
+- [Non-ergodicity in ecology and evolution -- Kuosmanen, Minetto & Mustonen (bioRxiv, 2025)](https://www.biorxiv.org/content/10.1101/2025.09.01.673433v1) -- Non-ergodicity as the rule in biological systems; implications for demography, environment, and cooperation
+- [Climate change and climate-linked finance -- Turvey et al. (Agricultural Finance Review, 2025)](https://www.emerald.com/insight/content/doi/10.1108/afr-11-2023-0147/full/html) -- Uses Ornstein-Uhlenbeck processes to measure climate ergodicity and price climate-linked bonds
+
 ## Questions we're interested in
 
 - Part I (Tools) is meant to provide readers with required background, a bag of tricks. We want to keep this short because we are not writing a book on probability theory etc. Is anything unclear in this section? Is something essential missing?
