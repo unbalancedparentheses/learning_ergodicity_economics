@@ -2,6 +2,8 @@
 
 A curated collection of resources for studying [ergodicity economics](https://ergodicityeconomics.com/) -- a research programme that places the ergodicity question at the centre of economic theory. When the time average of a process differs from its ensemble average, expected-value reasoning can be misleading; ergodicity economics explores what follows when we take that seriously.
 
+The most important recent development is experimental validation: Meder et al. and Skjold et al. ran actual lab experiments testing whether people optimize time-average growth rates (as ergodicity economics predicts) rather than expected utility. The results are supportive -- subjects behave more like ergodicity economics predicts than like expected utility theory, especially in repeated gambles. The critiques and debate papers (Doctor et al., Towers) push back on specific claims and force sharper definitions of when the ergodicity argument does and doesn't apply. Applications to ML (using ergodicity-breaking as a feature in financial prediction, connections to reinforcement learning under non-stationary environments) are nascent but promising.
+
 This repository started as a home for the original lecture notes by Ole Peters and Alexander Adamou (London Mathematical Laboratory) and has grown into a broader reading list.
 
 ## Lecture Notes
